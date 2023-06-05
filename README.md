@@ -137,7 +137,7 @@ Randolfo Fermin
 </sub>](https://github.com/Randyfermin)
 
 ## Licencia
-[Hotel Alura Liencia MIT ](https://github.com/Randyfermin/ForoAlura/blob/main/Licencia.txt)
+[Foro Alura Liencia MIT ](https://github.com/Randyfermin/ForoAlura/blob/main/Licencia.txt)
 
 
 
