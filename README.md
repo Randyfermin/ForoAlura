@@ -74,24 +74,12 @@
 
   ### ¿Cómo descargar?
 
-  #### 🔹 Fork
 
-  1. Haga el **Fork** del proyecto. En la parte superior derecha, al hacer clic en el icono, creará un repositorio del proyecto en su cuenta personal de GitHub.
-
-<p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169404781-7df6355b-3a15-472a-8d8e-fdb84d91a7bd.png">
-</p>
-
-  2. Después de tener el repositorio "forkado" para su cuenta, verifica si la url de la página es la del repositorio de su cuenta.
-
- <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/78982435/209683304-04e0d114-8834-4449-b82b-29a38f057f2d.png">
-</p>
-
-  3. Haga clic en la opción **Code**. Presenta tres formas para instalar el repositorio en su máquina, y destacamos dos:
+  1. Haga clic en la opción **Code**. Presenta tres formas para instalar el repositorio en su máquina, y destacamos dos:
 
      <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/78982435/209683480-72fab313-ecbc-4de7-8f75-2d6b5013ea49.png">
+     <img width="600" heigth="600" src="(https://github.com/Randyfermin/ForoAlura/assets/48891637/ad11f1bc-b530-41ab-920c-c329aef7fd7c)">
+     
      </p></br>
 
 #### 🔹 Clonar o descargar el ZIP
