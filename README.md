@@ -50,9 +50,6 @@
 
 </br>
 
-
-#### 📃Visita la página del Desafío [¡Haciendo clic aquí!](https://www.aluracursos.com/challenges/oracle-one-back-end/aluraforo) 
-
 📃
 ## Tecnologías utilizadas:
 
@@ -78,7 +75,7 @@
   1. Haga clic en la opción **Code**. Presenta tres formas para instalar el repositorio en su máquina, y destacamos dos:
 
      <p align="center" >
-     <img width="600" heigth="600" src="(https://github.com/Randyfermin/ForoAlura/assets/48891637/ad11f1bc-b530-41ab-920c-c329aef7fd7c)">
+     <img width="600" heigth="600" src="https://github.com/Randyfermin/ForoAlura/assets/48891637/ad11f1bc-b530-41ab-920c-c329aef7fd7c">
      
      </p></br>
 
