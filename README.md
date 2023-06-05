@@ -12,7 +12,6 @@
 - [Editor IDE Eclipse](#editor-ide-eclipse)
 - [Caracteres Especiales en el proyecto](#caracteres-especiales-en-el-proyecto)
 - [Base de Dados](#base-de-dados)
-- [Plugin WindowBuilder](#plugin-windowBuilder)
 - [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 - [Personas Desarrolladores del Proyecto](#personas-desarrolladores)
 - [Licencia](#licencia)
@@ -128,6 +127,18 @@ Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/78982435/209683946-24a7a3c1-8170-4280-8047-5eb70cba7a9b.png">
 </p>
+
+## Persona Desarrollador del Proyecto
+
+[<img src="https://avatars.githubusercontent.com/u/48891637?v=4" width=115>
+<br>
+<sub>
+Randolfo Fermin
+</sub>](https://github.com/Randyfermin)
+
+## Licencia
+[Hotel Alura Liencia MIT ](https://github.com/Randyfermin/ForoAlura/blob/main/Licencia.txt)
+
 
 
 💙 Alura Latam
