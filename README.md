@@ -130,7 +130,7 @@ Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio
 </P>
 
 <p align="center" >
-     ![ModeladoDB](https://github.com/Randyfermin/ForoAlura/assets/48891637/fddd9033-49ba-469d-88b6-77e999a83f6c)
+     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/78982435/209683774-85c78b5e-605f-4643-818f-0bb2eddca175.png">
 </p>
 
 
