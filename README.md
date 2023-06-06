@@ -10,8 +10,7 @@
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Download](#download)
 - [Editor IDE Eclipse](#editor-ide-eclipse)
-- [Caracteres Especiales en el proyecto](#caracteres-especiales-en-el-proyecto)
-- [Base de Dados](#base-de-dados)
+- [Modelado de Tablas](#modelado-de-tablas)
 - [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 - [Personas Desarrolladores del Proyecto](#personas-desarrolladores)
 - [Licencia](#licencia)
@@ -122,6 +121,18 @@ Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/78982435/209683946-24a7a3c1-8170-4280-8047-5eb70cba7a9b.png">
 </p>
+
+### Modelado de tablas:
+
+<p align="justify">
+     Tablas: <strong>Usuarios</strong>, <strong>Perfiles</strong>, <strong>Cursos</strong>, 
+          <strong>Tópicos</strong> y <strong>Respuestas</strong>. 
+</P>
+
+<p align="center" >
+     ![ModeladoDB](https://github.com/Randyfermin/ForoAlura/assets/48891637/fddd9033-49ba-469d-88b6-77e999a83f6c)
+</p>
+
 
 ## Persona Desarrollador del Proyecto
 
