@@ -131,13 +131,28 @@ Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio
 
 <p align="center" >
      <img width="600" heigth="600" src="https://github.com/Randyfermin/ForoAlura/assets/48891637/a7bccb63-8baf-4197-a9d6-4a172eb84356">
-     
-     
-     
-     ![ModeladoDB]()
-
 </p>
 
+## Características de la aplicación y demostración
+
+
+![Login](https://github.com/Randyfermin/ForoAlura/assets/48891637/be005650-7373-4e54-b6d5-63726563bd10)
+
+![Update Curso](https://github.com/Randyfermin/ForoAlura/assets/48891637/08064835-9722-4a27-9e84-d39f52d9389e)
+![Update Respuestas](https://github.com/Randyfermin/ForoAlura/assets/48891637/a5dcb663-95f6-4d3e-8ad9-34e94cb50a87)
+![Update Topico](https://github.com/Randyfermin/ForoAlura/assets/48891637/e978b79e-3c9c-4916-a46b-00f9477aa464)
+
+![Registrar Topico](https://github.com/Randyfermin/ForoAlura/assets/48891637/1776266c-4a6a-4095-b071-eb685905ea74)
+![Registrar Curso](https://github.com/Randyfermin/ForoAlura/assets/48891637/e097bf8b-e1b5-452a-a08b-1fbdecb5a6a8)
+![Registrar Perfiles-Usuarios](https://github.com/Randyfermin/ForoAlura/assets/48891637/4e615ba3-e080-4262-8b05-18e3326631ea)
+![Registrar Respuesta](https://github.com/Randyfermin/ForoAlura/assets/48891637/55885fd7-f17b-4262-835e-6f943e2cc3e1)
+
+
+![Lista Topicos](https://github.com/Randyfermin/ForoAlura/assets/48891637/bcf5f409-1a04-4399-bb1a-bc1e22575b4a)
+![Lista Cursos](https://github.com/Randyfermin/ForoAlura/assets/48891637/72908ab0-fd4e-46ed-8ad6-1dc1772e17f0)
+![Lista Perfil por ID](https://github.com/Randyfermin/ForoAlura/assets/48891637/0bc0f15d-afaf-4f51-8bc2-a69ef486e28e)
+![Lista Perfiles](https://github.com/Randyfermin/ForoAlura/assets/48891637/050e7d37-3fb3-4c9a-a464-bac3e6fb1788)
+![Lista Topicos por ID](https://github.com/Randyfermin/ForoAlura/assets/48891637/290d1696-573f-4f84-8f5c-4200f69403a6)
 
 ## Persona Desarrollador del Proyecto
 
